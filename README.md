@@ -252,3 +252,8 @@ The primary objective was to build a system that moves reliability testing from 
 ##  Skills Demonstrated
 
 `Industrial Automation` `Test Automation` `Data Acquisition` `SQL` `Data Analytics` `Real-Time Monitoring` `Data Visualization` `Reliability Testing` `Decision Analytics` `Database Integration` `Engineering Analytics`
+## Contact
+https://www.linkedin.com/in/sarita-bhat-b2a85b14
+
+## Github
+https://www.github.com/Saritabhat22
